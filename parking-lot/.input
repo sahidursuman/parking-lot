@@ -1,0 +1,14 @@
+create_parking_lot 6
+park KL-04-AA-6695 white
+park KL-04-AA-6694 black
+park KL-04-AA-6692 red
+park KL-04-AA-6691 blue
+park KL-04-AA-6693 white
+park KL-04-AA-6692 red
+park KL-04-AA-6691 blue
+leave 4
+status
+registration_numbers_for_cars_with_colour white
+slot_numbers_for_cars_with_colour white
+slot_number_for_registration_number KL-04-AA-6695
+slot_number_for_registration_number KL-04-AA-669
